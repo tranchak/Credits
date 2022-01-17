@@ -1,8 +1,6 @@
 from django.db import models
 
 # Create your models here.
-
-
 class Client(models.Model):
     first_name=models.CharField(max_length=100, verbose_name='Имя клиента', help_text='Введите имя клиента')
     last_name=models.CharField(max_length=100, verbose_name='Фамилия клиента',help_text='Введите фамилию клиента')
