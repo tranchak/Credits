@@ -13,4 +13,6 @@ def get_home(request):
 
 
 def get_bank(request):
-    return render(request, 'main/banks.html')
+    banks = Bank.objects.all()
+    contex = {'banks': banks}
+    return render(request, 'main/banks.html',contex)

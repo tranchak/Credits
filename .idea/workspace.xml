@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a514f21-5d18-486f-8537-3dc367dc4a0f" name="Changes" comment="merge and create admin">
-      <change afterPath="$PROJECT_DIR$/Credit/main/templates/main/banks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Credit/main/templates/main/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Credit/main/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Credit/Credit/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Credit/Credit/urls.py" afterDir="false" />
+    <list default="true" id="8a514f21-5d18-486f-8537-3dc367dc4a0f" name="Changes" comment="add two html">
       <change beforePath="$PROJECT_DIR$/Credit/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Credit/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Credit/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Credit/main/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Credit/main/templates/main/banks.html" beforeDir="false" afterPath="$PROJECT_DIR$/Credit/main/templates/main/banks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Credit/main/templates/main/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Credit/main/templates/main/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Credit/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Credit/main/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642446205259</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add two html">
+      <created>1642526074921</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642526074921</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,7 +130,8 @@
     <MESSAGE value="start project Credit" />
     <MESSAGE value="add model Client_master" />
     <MESSAGE value="merge and create admin" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge and create admin" />
+    <MESSAGE value="add two html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add two html" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

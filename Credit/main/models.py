@@ -37,7 +37,7 @@ class Client(models.Model):
     worker = models.BooleanField(default=False, verbose_name='Работник банка или нет')
 
     def __str__(self):
-        return self.first_name, self.last_name
+        return self.first_name
 
     class Meta:
         verbose_name = 'Клиент'
